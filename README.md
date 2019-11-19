@@ -6,7 +6,7 @@ This repository seeks to provide interested readers a centralized place to read 
 
 I hope to continue updating this repository as I clean up the code and report text and provide greater detail about the materials I sourced when writing this project.
 
-Here are some great links that I referenced when writing the paper:
+For starters, here are some great links that I referenced when writing the paper:
 
 * https://secml.github.io/class4/
 * https://privacytools.seas.harvard.edu/differential-privacy
